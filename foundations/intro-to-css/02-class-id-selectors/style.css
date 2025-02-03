@@ -1,0 +1,24 @@
+p{
+    background-color: rgba( 255, 40, 95, 0.85);
+    font-family: "verdana", "DejaVu Sans", "sans-serif";
+    
+   
+      
+}
+
+#linetwo{
+    color: hsl(251, 100%, 50%);
+    font-size: 36px;
+
+}
+
+.linethree{
+    font-size: 24px;
+}
+
+#linefour{
+    background-color: hsl(142, 100%, 50%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
